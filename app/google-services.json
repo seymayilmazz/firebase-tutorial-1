@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "15284309367",
+    "firebase_url": "https://myapplication-72b9a.firebaseio.com",
+    "project_id": "myapplication-72b9a",
+    "storage_bucket": "myapplication-72b9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15284309367:android:4e8e6c79b6fe502a",
+        "android_client_info": {
+          "package_name": "com.seyma.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15284309367-93jqvbt9mf07lianl4df7hfjp6n9e0is.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgcFBnjc3KEgYYeGPgf_YtCpCex2UNpzI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
